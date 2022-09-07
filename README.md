@@ -1,7 +1,6 @@
 <h1 align="left">Hello, I'm Marlone 👋</h1>
 <h3 align="left">A passionate full stack developer since 2016</h3>
 
-- 👨‍💻 All of my projects are available at
 - 📫 How to reach me **marloneSlima@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
